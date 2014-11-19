@@ -11,7 +11,7 @@
 @implementation myLib
 - (instancetype)initWithCoder:(NSCoder *)coder
 {
-  //  self = [super initWithCoder:coder];
+    self = [super initWithCoder:coder];
     if (self) {
     
     }
