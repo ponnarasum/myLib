@@ -13,7 +13,7 @@
 {
     self = [super init];
     if (self) {
-        
+        //DAApprovalSessionCreate(CFAllocatorRef allocator)
     }
     return self;
 }
