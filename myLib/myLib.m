@@ -9,12 +9,5 @@
 #import "myLib.h"
 
 @implementation myLib
-- (instancetype)init
-{
-    self = [super init];
-    if (self) {
-        
-    }
-    return self;
-}
+
 @end
