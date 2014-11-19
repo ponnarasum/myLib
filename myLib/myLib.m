@@ -9,13 +9,13 @@
 #import "myLib.h"
 
 @implementation myLib
-- (instancetype) initWithCoder:(NSCoder *)coder
+//- (instancetype) initWithCoder:(NSCoder *)coder 1
 {
-    self = [super initWithCoder:coder];
-    if (self) {
+ //   self = [super initWithCoder:coder];
+//    if (self) {
     
     }
-    return self;
-}
+   // return self;
+//}
 
 @end
